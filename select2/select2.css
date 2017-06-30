@@ -2,7 +2,6 @@
 Version: 3.2 Timestamp: Mon Sep 10 10:38:04 PDT 2012
 */
 .select2-container {
-    width: 512px;
     position: relative;
     display: inline-block;
     /* inline-block for ie7 */
